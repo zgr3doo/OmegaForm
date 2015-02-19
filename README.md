@@ -9,7 +9,7 @@ Simple jQuery form validator
 
 ### 1. Setup
 
-Include jQuery and Omega Form plugin files (Bootstrap)
+Include jQuery and Omega Form plugin files (Bootstrap may be usefull)
 
 ### 2. Build HTML
 
